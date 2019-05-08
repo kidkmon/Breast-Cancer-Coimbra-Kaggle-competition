@@ -16,7 +16,7 @@
 * [Prevision](https://github.com/kidkmon/Breast-Cancer-Coimbra-Kaggle-competition/blob/master/prevision.csv)
 
 ## Libraries
-The libraries used in the practical projects were:
+The libraries used in the practical project were:
    * [Scikit-learn](https://scikit-learn.org/stable/index.html)
    * [Pandas](https://pandas.pydata.org/)
    * [Numpy](http://www.numpy.org/)
